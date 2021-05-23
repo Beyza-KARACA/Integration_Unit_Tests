@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Emirlerin test edildiði sýnýf 
+* </p>
+*/
 #include "EmirTest.h"
 #include <typeinfo>
 

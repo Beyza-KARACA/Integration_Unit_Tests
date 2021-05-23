@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Satýþ iþlemlerinin  test edildiði  sýnýf
+* </p>
+*/
 #include "SatisTest.h"
 #include <typeinfo>
 

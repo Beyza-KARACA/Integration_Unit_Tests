@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Dosyalarýn okunup ilgili sýnýfalra yollandýðý sýnýf
+* </p>
+*/
 #include "Dosya.h"
 
 Hisse* Dosya::hisseDosyaOku(string path)

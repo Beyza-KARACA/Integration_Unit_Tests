@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Hisse bilgilerinin bulunduðu sýnýf
+* </p>
+*/
 #include "Hisse.h"
 
 Hisse::Hisse(int hisseler, string* i, string* a, string* s, double* f)

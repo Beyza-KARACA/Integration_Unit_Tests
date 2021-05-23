@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Alýþ iþleminin test edildiði sýnýf
+* </p>
+*/
 #include "AlisTest.h"
 #include <typeinfo>
 

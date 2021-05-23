@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Portfoy Bilgilerinin olduðu sýnýf
+* </p>
+*/
 #include "Portfoy.h"
 
 Portfoy::Portfoy(int portfoyler,string* i, string* s, double *m, int* a)

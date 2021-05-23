@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA
+* @since 23.05.2021
+* <p>
+* Satýþ iþleminin gerçekleþtirildiði sýnýf
+* </p>
+*/
 #include "Satis.h"
 Satis::Satis(int ss , string* s, int* a)
 {

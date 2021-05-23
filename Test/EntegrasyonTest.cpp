@@ -1,3 +1,12 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Dýþ kaynakla baðlantýlý yani dosyadan okuma yaparak atama yapan ve  test gerçekleþtiren sýnýf
+* </p>
+*/
+
 #include "EntegrasyonTest.h"
 
 void EntegrasyonTest::SetUpTestCase()
@@ -13,12 +22,12 @@ void EntegrasyonTest::SetUpTestCase()
 
 void EntegrasyonTest::TearDownTestCase()
 {
-	
+
 }
 
 EntegrasyonTest::~EntegrasyonTest()
 {
-
+	
 }
 
 TEST_F(EntegrasyonTest, Hisse_HisseMiTest)

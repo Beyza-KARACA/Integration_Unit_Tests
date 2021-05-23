@@ -1,3 +1,11 @@
+/**
+*
+* @author Beyza KARACA beyza.karaca@ogr.sakarya.edu.tr
+* @since 23.05.2021
+* <p>
+* Emirlerin okunup alýþ ve satýþa göre yönlendirdiði sýnýf
+* </p>
+*/
 #include "Emir.h"
 
 Emir::Emir(int emirler,string* i, string* is, string *s, int* a,Hisse* h,Portfoy* p)
